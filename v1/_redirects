@@ -1,0 +1,15 @@
+# 301 (v0 -> v1). Funciona em Netlify e Cloudflare Pages.
+/index.html  /  301
+/home.html  /  301
+/Categoria_Chas.html  /chas/  301
+/Categoria_Acessorios.html  /acessorios/  301
+/Prod_1.html  /chas/cha-verde-sencha/  301
+/Prod_2.html  /chas/cha-preto-assam/  301
+/Prod_3.html  /chas/cha-hibisco-laranja/  301
+/produto_camomila.HTML  /chas/cha-camomila-organica/  301
+/Prod_Orfao.html  /chas/cha-capim-limao/  301
+/Prod_5.html  /acessorios/kit-presente-cha-verde/  301
+/sobre.html  /sobre/  301
+/contato.html  /contato/  301
+/carrinho.html  /carrinho/  301
+/busca.html  /busca/  301

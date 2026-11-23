@@ -1,0 +1,9 @@
+# robots.txt - Casa do Chá Serrano
+User-agent: *
+Allow: /
+# Resultados de busca interna com parametro (infinitas combinacoes, sem valor para a busca)
+Disallow: /*?q=
+# /carrinho/, /checkout/ e /busca/ ficam rastreaveis de proposito: o Google precisa ler o
+# meta robots noindex dessas paginas. CSS, JS e imagens NAO sao bloqueados.
+
+Sitemap: https://casadochaserrano-grupo1.netlify.app/sitemap.xml
